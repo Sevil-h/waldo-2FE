@@ -3,6 +3,9 @@ import Link from 'next/link'
 
 export default function Footer() {
   return (
-    <h1>Footer</h1>
+    <ul>
+      <li><a href="#">Wikipedia</a></li>
+      <li><a href="#">Painting</a></li>
+    </ul>
     )
 }
