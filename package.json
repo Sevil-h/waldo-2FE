@@ -1,0 +1,32 @@
+{
+  "name": "waldo-2FE",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sevil-h/waldo-2FE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sevil-h/waldo-2FE/issues"
+  },
+  "homepage": "https://github.com/Sevil-h/waldo-2FE#readme",
+  "dependencies": {
+    "next": "^10.2.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "postcss": "^8.2.13",
+    "postcss-preset-env": "^6.7.0",
+    "tailwindcss": "^2.1.4"
+  }
+}
